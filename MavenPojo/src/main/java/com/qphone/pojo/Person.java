@@ -1,4 +1,4 @@
-package com.qphone;
+package com.qphone.pojo;
 
 public class Person {
     private Integer id;
